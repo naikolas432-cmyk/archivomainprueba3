@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Verano 3 - Gestión de Proyectos API
 
 API backend construido con Django Rest Framework para la gestión de clientes, proyectos, tareas y subtareas. Implementa autenticación JWT, roles de usuario y aislamiento de datos siguiendo buenas prácticas del repositorio `vetocanti/backend-verano-3`.
@@ -209,3 +210,6 @@ Creación de Clientes y Proyectos (POST)
 Validación de rangos de progreso (Error 400)
 
 Eliminación lógica de clientes (DELETE)
+=======
+# archivomainprueba3
+>>>>>>> f7c9ba3487bb74ea4fe0a3c5cfbceecd92850fa2
